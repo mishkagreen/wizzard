@@ -1,0 +1,111 @@
+.apexcharts-legend-series .apexcharts-legend-marker {
+    left: -4px !important;
+    top: 2px !important;
+}
+.css-ujljcm-MuiGrid-root{
+    background: #69c0ff29;
+}
+@font-face {
+    font-family: ninomtavruli;
+    src: url(../font/bpg_nino_mtavruli_normal.ttf);
+}
+
+.css-1sx7tm3-MuiTypography-root,.css-o2d1ik-MuiTypography-root,.css-1rit3o0-MuiTypography-root
+,.css-nmu7bk-MuiTableRow-root > th,.MuiTypography-root
+{
+    font-family: ninomtavruli !important;
+    color:grey !important;
+    font-weight:bold !important;
+}
+.anticon-dashboard,.anticon-login,.anticon-profile{
+    position: relative;
+    top:-4px;
+}
+.css-1a2zag4-MuiPaper-root-MuiCard-root{
+    box-shadow: rgb(95 116 141 / 3%) 0px 2px 1px -1px, rgb(95 116 141 / 4%) 0px 1px 1px 0px, rgb(95 116 141 / 8%) 0px 1px 3px 0px;
+}
+label{
+    font-family: ninomtavruli !important;
+    color:grey !important;
+    font-weight:bold !important;
+}
+
+.css-16iw3b8-MuiTypography-root{
+    color:#2196F3!important;
+}
+
+.css-1rke8zj-MuiButtonBase-root-MuiButton-root{
+    background-color: #1890ff26;
+    color:#1890ff;
+    font-weight: bold;
+    font-family: ninomtavruli !important;
+    padding:13px;
+    border-radius: 50rem!important;
+    font-size:17px;
+}
+
+.css-ddo1k5-MuiTypography-root{
+    color: #dc3545 !important;
+    position: relative;
+    top: -1px;
+}
+
+.css-1rke8zj-MuiButtonBase-root-MuiButton-roo:hover{
+    opacity: 0.6 !important;
+    background-color: #1890ff26 !important;
+}
+
+.MuiFormHelperText-root{
+    font-family: ninomtavruli !important;
+    font-weight: bold !important;
+}
+
+input::-webkit-input-placeholder {
+    font-family: ninomtavruli !important;
+}
+.css-brkclh-MuiButtonBase-root-MuiCheckbox-root{
+    position: relative !important;
+    top:-2px !important;
+}
+
+.css-1rke8zj-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #1890ff26 !important;
+    opacity: 0.6 !important;
+}
+
+.css-1a2zag4-MuiPaper-root-MuiCard-root:hover {
+    box-shadow: rgb(95 116 141 / 3%) 0px 2px 1px -1px, rgb(95 116 141 / 4%) 0px 1px 1px 0px, rgb(95 116 141 / 8%) 0px 1px 3px 0px;
+}
+.css-1q36rmd-MuiStack-root>:not(style)+:not(style){
+    position: relative;
+    top:3px !important;
+    left:3px;
+    font-size:13px;
+}
+#Register{
+    background-color: #ffc1073b;
+    color:#ffc107;
+}
+#Register:hover{
+    background-color: #ffc1073b !important;
+    opacity: 0.6 !important;
+}
+.css-16iw3b8-MuiTypography-root{
+    font-size:16px;
+}
+
+.css-br2bva-MuiTypography-root{
+    position: relative;
+    top:3px;
+}
+.MuiTypography-h4{
+    font-size:16px;
+    color:#ffc107 !important;
+}
+.MuiTypography-body4{
+    font-size: 12px !important;
+}
+
+.MuiTypography-subtitle3{
+    color: #1890ff !important; 
+}
